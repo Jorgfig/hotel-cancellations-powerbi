@@ -25,3 +25,11 @@ Una cadena hotelera detectó que estaba pagando comisiones a su agencia de marke
 1. Renegociar contrato con agencia para pagar solo por reservas materializadas
 2. Implementar política de depósito para reservas con más de 90 días de anticipación
 3. Incentivar interacción con la reserva para reducir cancelaciones
+
+## Dashboard
+
+![Portada](Portada.jpeg)
+![Impacto Económico](Impacto%20Económico.jpeg)
+![Hipótesis 1, 2 y 3](Hipótesis%201_2_3.jpeg)
+![Hipótesis 4 y 5](Hipótesis%204_5.jpeg)
+![Conclusiones y Recomendaciones](Conclusiones%20y%20Recomendaciones.jpeg)
